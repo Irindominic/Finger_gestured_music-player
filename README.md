@@ -51,7 +51,7 @@ Gesture-to-Note Mapping (Swara: Ga)
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1xOqK_0pF1yCcCYAggKmZ0wH4CClRjjhh/view?usp=drive_link
+https://drive.google.com/file/d/1nxSxxnOheDmUsZr1pNqO35sSZVYdz-Bm/view?usp=sharing
 
 
 ## Team Contributions
